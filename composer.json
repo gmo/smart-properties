@@ -1,0 +1,15 @@
+{
+	"name": "gmo/smart-properties",
+	"keywords": ["property", "properties", "type"],
+	"require": {
+		"php": ">=5.4"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "~4.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"GMO\\SmartProperties\\": "src/"
+		}
+	}
+}
